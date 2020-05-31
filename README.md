@@ -4,13 +4,10 @@
 ## Mobile-Developer  Assignment 
 #### Dorset College
 
-## Installation
-
-npm install or yarn
-
 ## About The Project
 
-This is my Mobile Developer Assignment. Is a simple app that shows all the dublin bike stations rendering the amount of bikes available by station and also provides the duration time between the user location and selected destination 
+This is my Mobile Developer Assignment. Is a simple app that shows all the dublin bike stations rendering the amount of bikes available by station
+https://user-images.githubusercontent.com/60415859/83365218-95b44100-a39e-11ea-9b74-19c55c7eb673.gif
 
 ## Built With
 
@@ -24,19 +21,11 @@ The Project was developed using:
 
 
 
-## User Stories
-As a user, I would like to see a simple application straight to the point(Station Results).
-
-
 ### Mobile View
-
-
-
-
-### Navigation
-
-
-
+https://user-images.githubusercontent.com/60415859/83365218-95b44100-a39e-11ea-9b74-19c55c7eb673.gif
+https://user-images.githubusercontent.com/60415859/83365189-4bcb5b00-a39e-11ea-8327-c7a3304ef195.jpeg
+https://user-images.githubusercontent.com/60415859/83365190-4c63f180-a39e-11ea-9222-478265e59cfd.jpeg
+https://user-images.githubusercontent.com/60415859/83365191-4c63f180-a39e-11ea-83ce-27bf8cf01e8c.jpeg
 
 
 ## Github Pages Link
