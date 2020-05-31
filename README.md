@@ -7,7 +7,9 @@
 ## About The Project
 
 This is my Mobile Developer Assignment. Is a simple app that shows all the dublin bike stations rendering the amount of bikes available by station
-https://user-images.githubusercontent.com/60415859/83365218-95b44100-a39e-11ea-9b74-19c55c7eb673.gif
+
+![ezgif-5-25e331e601f7](https://user-images.githubusercontent.com/60415859/83365218-95b44100-a39e-11ea-9b74-19c55c7eb673.gif)
+
 
 ## Built With
 
@@ -22,10 +24,19 @@ The Project was developed using:
 
 
 ### Mobile View
-https://user-images.githubusercontent.com/60415859/83365218-95b44100-a39e-11ea-9b74-19c55c7eb673.gif
-https://user-images.githubusercontent.com/60415859/83365189-4bcb5b00-a39e-11ea-8327-c7a3304ef195.jpeg
-https://user-images.githubusercontent.com/60415859/83365190-4c63f180-a39e-11ea-9222-478265e59cfd.jpeg
-https://user-images.githubusercontent.com/60415859/83365191-4c63f180-a39e-11ea-83ce-27bf8cf01e8c.jpeg
+![app3](https://user-images.githubusercontent.com/60415859/83365180-3c4c1200-a39e-11ea-8bb0-3768aa4cbe61.jpg)
+
+![app4](https://user-images.githubusercontent.com/60415859/83365181-3ce4a880-a39e-11ea-9982-ededf7f1cdc7.jpg)
+
+![app2](https://user-images.githubusercontent.com/60415859/83365182-3ce4a880-a39e-11ea-8c84-d45bc1334e75.jpg)
+
+![app1](https://user-images.githubusercontent.com/60415859/83365184-3d7d3f00-a39e-11ea-87a4-5d0aaf6d0647.jpg)
+
+![WhatsApp Image 2020-05-31 at 21 32 37](https://user-images.githubusercontent.com/60415859/83365189-4bcb5b00-a39e-11ea-8327-c7a3304ef195.jpeg)
+
+![WhatsApp Image 2020-05-31 at 22 26 46](https://user-images.githubusercontent.com/60415859/83365190-4c63f180-a39e-11ea-9222-478265e59cfd.jpeg)
+
+![WhatsApp Image 2020-05-31 at 22 26 46 (1)](https://user-images.githubusercontent.com/60415859/83365191-4c63f180-a39e-11ea-83ce-27bf8cf01e8c.jpeg)
 
 
 ## Github Pages Link
