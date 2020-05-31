@@ -26,12 +26,14 @@ The Project was developed using:
 ![app4](https://user-images.githubusercontent.com/60415859/83365181-3ce4a880-a39e-11ea-9982-ededf7f1cdc7.jpg)
 
 ### Mobile View
+
+Iphone screen to test
+![app1](https://user-images.githubusercontent.com/60415859/83365184-3d7d3f00-a39e-11ea-87a4-5d0aaf6d0647.jpg)
+![app2](https://user-images.githubusercontent.com/60415859/83365182-3ce4a880-a39e-11ea-8c84-d45bc1334e75.jpg)
 ![app3](https://user-images.githubusercontent.com/60415859/83365180-3c4c1200-a39e-11ea-8bb0-3768aa4cbe61.jpg)
 
-![app2](https://user-images.githubusercontent.com/60415859/83365182-3ce4a880-a39e-11ea-8c84-d45bc1334e75.jpg)
 
-![app1](https://user-images.githubusercontent.com/60415859/83365184-3d7d3f00-a39e-11ea-87a4-5d0aaf6d0647.jpg)
-
+From Android Emulator Expo
 ![WhatsApp Image 2020-05-31 at 21 32 37](https://user-images.githubusercontent.com/60415859/83365189-4bcb5b00-a39e-11ea-8327-c7a3304ef195.jpeg)
 
 ![WhatsApp Image 2020-05-31 at 22 26 46](https://user-images.githubusercontent.com/60415859/83365190-4c63f180-a39e-11ea-9222-478265e59cfd.jpeg)
