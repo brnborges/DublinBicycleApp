@@ -21,12 +21,12 @@ The Project was developed using:
 * [Dublin Bike API](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted)
 * [Maps SDK for Android](https://developers.google.com/maps/documentation/android-sdk/intro?utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_432498048459-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+~+Maps+%7C+BMM+%7C++Maps+SDK+for+Android-KWID_43700053361877366-aud-596989456261:kwd-838843334388-userloc_1007850&utm_term=KW_%2Bmaps%20%2Bsdk%20%2Bandroid-ST_%2Bmaps+%2Bsdk+%2Bandroid&gclid=CjwKCAjwq832BRA5EiwACvCWsWxs914PCuYvfs9e2JTEtovOxtm7IMzJb-9S6rWbRlWQ6KMW7VOxQBoCLgYQAvD_BwE)
 
+### QR CODE FROM EXPO
 
+![app4](https://user-images.githubusercontent.com/60415859/83365181-3ce4a880-a39e-11ea-9982-ededf7f1cdc7.jpg
 
 ### Mobile View
 ![app3](https://user-images.githubusercontent.com/60415859/83365180-3c4c1200-a39e-11ea-8bb0-3768aa4cbe61.jpg)
-
-![app4](https://user-images.githubusercontent.com/60415859/83365181-3ce4a880-a39e-11ea-9982-ededf7f1cdc7.jpg)
 
 ![app2](https://user-images.githubusercontent.com/60415859/83365182-3ce4a880-a39e-11ea-8c84-d45bc1334e75.jpg)
 
