@@ -38,6 +38,6 @@ As a user, I would like to see a simple application straight to the point(Statio
 
 
 ## Github Pages Link
-https://github.com/pablogomezlhp
+https://github.com/brnborges
 
-Copyright 2020 - Pablo Patrick
+Copyright 2020 - Bruno Borges
