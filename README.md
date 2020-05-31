@@ -23,7 +23,7 @@ The Project was developed using:
 
 ### QR CODE FROM EXPO
 
-![app4](https://user-images.githubusercontent.com/60415859/83365181-3ce4a880-a39e-11ea-9982-ededf7f1cdc7.jpg
+![app4](https://user-images.githubusercontent.com/60415859/83365181-3ce4a880-a39e-11ea-9982-ededf7f1cdc7.jpg)
 
 ### Mobile View
 ![app3](https://user-images.githubusercontent.com/60415859/83365180-3c4c1200-a39e-11ea-8bb0-3768aa4cbe61.jpg)
