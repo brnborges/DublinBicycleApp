@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "app",
+    "slug": "snack-6e65f858-196e-468f-8dc6-964abb95a9b1",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.brunobrnborges.dublinbicycle",
+      "versionCode": 1
+    }
+  }
+}
