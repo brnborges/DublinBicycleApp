@@ -19,6 +19,7 @@ The Project was developed using:
 * [React Native](https://reactjs.org)
 * [Font Awesome](https://fontawesome.com)
 * [Dublin Bike API](https://developer.jcdecaux.com/#/opendata/vls?page=getstarted)
+* [Maps SDK for Android](https://developers.google.com/maps/documentation/android-sdk/intro?utm_source=google&utm_medium=cpc&utm_campaign=FY18-Q2-global-demandgen-paidsearchonnetworkhouseads-cs-maps_contactsal_saf&utm_content=text-ad-none-none-DEV_c-CRE_432498048459-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+~+Maps+%7C+BMM+%7C++Maps+SDK+for+Android-KWID_43700053361877366-aud-596989456261:kwd-838843334388-userloc_1007850&utm_term=KW_%2Bmaps%20%2Bsdk%20%2Bandroid-ST_%2Bmaps+%2Bsdk+%2Bandroid&gclid=CjwKCAjwq832BRA5EiwACvCWsWxs914PCuYvfs9e2JTEtovOxtm7IMzJb-9S6rWbRlWQ6KMW7VOxQBoCLgYQAvD_BwE)
 
 
 
