@@ -6,7 +6,7 @@
 
 ## About The Project
 
-This is my Mobile Developer Assignment. Is a simple app that shows all the dublin bike stations rendering the amount of bikes available by station
+This is my sample of an application for bicycle rental in dublin, showing the stations and the respective quantities of bicycles evaluated.
 
 ![ezgif-5-25e331e601f7](https://user-images.githubusercontent.com/60415859/83365218-95b44100-a39e-11ea-9b74-19c55c7eb673.gif)
 
@@ -28,7 +28,7 @@ The Project was developed using:
  
 ![app4](https://user-images.githubusercontent.com/60415859/83365181-3ce4a880-a39e-11ea-9982-ededf7f1cdc7.jpg)
 
-### Mobile View
+# Mobile View
 
 ### Iphone screen to test
 ![app1](https://user-images.githubusercontent.com/60415859/83365184-3d7d3f00-a39e-11ea-87a4-5d0aaf6d0647.jpg)
